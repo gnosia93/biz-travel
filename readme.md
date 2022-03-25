@@ -9,9 +9,11 @@
 
 Cornish Playhouse-rPCR (즉시검사)
 201 Mercer St, Seattle, WA 98109
+
 https://book.curative.com/sites/34762
 
 파라마운트 씨어터 (1-2일 걸림)
+
 https://book.curative.com/sites/33357
 
 
