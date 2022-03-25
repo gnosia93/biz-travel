@@ -7,6 +7,7 @@
 
 Cornish Playhouse-rPCR
 201 Mercer St, Seattle, WA 98109
+
 Opens at 12PM
 * https://book.curative.com/search#13/47.60883/-122.336
 
