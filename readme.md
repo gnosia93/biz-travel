@@ -8,7 +8,7 @@
 * https://book.curative.com/search#13/47.60883/-122.336
 
 ~~Cornish Playhouse-rPCR (즉시검사)
-201 Mercer St, Seattle, WA 98109
+201 Mercer St, Seattle, WA 98109~~  <-- 여기는 보험카드가 있어야 함.
 
 ~~https://book.curative.com/sites/34762~~
 
