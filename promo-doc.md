@@ -16,3 +16,8 @@
 * ABCD 의 원칙
 
   https://www.jobkorea.co.kr/goodjob/tip/view?News_No=14476&schCtgr=101001
+  
+  
+* 외국계 회사의 프로모션
+
+  https://minyoungs.tistory.com/348?category=935705
