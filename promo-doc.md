@@ -26,3 +26,7 @@
 * 고객문제해결 vs 비즈니스 임팩트
   
   https://brunch.co.kr/@positive-kim/186
+
+* 이해관계자 임팩트 & 협업
+
+  https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ijoos&logNo=221427623203
