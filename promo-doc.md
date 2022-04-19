@@ -11,3 +11,8 @@
 * 전략과 전술의 차이점 
 
   https://thinkingpower.co.kr/10583/
+
+
+* ABCD 의 원칙
+
+  https://www.jobkorea.co.kr/goodjob/tip/view?News_No=14476&schCtgr=101001
