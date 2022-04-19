@@ -30,3 +30,7 @@
 * 이해관계자 임팩트 & 협업
 
   https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ijoos&logNo=221427623203
+
+* Complex Problem Solving
+
+  https://www.accenture.com/nl-en/blogs/insights/what-can-the-brain-teach-us-about-complex-problem-solving
