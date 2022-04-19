@@ -21,3 +21,8 @@
 * 외국계 회사의 프로모션
 
   https://minyoungs.tistory.com/348?category=935705
+
+
+* 고객문제해결 vs 비즈니스 임팩트
+  
+  https://brunch.co.kr/@positive-kim/186
