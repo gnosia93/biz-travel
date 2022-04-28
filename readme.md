@@ -27,3 +27,5 @@ https://book.curative.com/sites/33357
 
 
 * http://www.seattle.gov/covid-19/testing/korean?lang=ko
+
+* https://blog.naver.com/PostView.nhn?blogId=cooloje&logNo=222296439494
