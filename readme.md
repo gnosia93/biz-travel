@@ -20,3 +20,10 @@ https://book.curative.com/sites/33357
 ### SOLV (유료/즉시검사) ###
 
 * https://www.solvhealth.com/prudent-medical-seattle-wa-07RZ93
+
+
+
+---
+
+
+* http://www.seattle.gov/covid-19/testing/korean?lang=ko
